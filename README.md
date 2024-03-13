@@ -1,4 +1,4 @@
-**Exploratory Data analysis (EDA)** is crucial step in the analysis process that allows to ***investigate, summarize and visualize*** data to generate ***insight*** and inform decision making. 
+**Exploratory Data analysis (EDA)** is a crucial step in the analysis process that allows you to ***investigate, summarize and visualize*** data to generate ***insight*** and inform decision-making. 
 
 EDA helps to identify patterns, detect anomalies and uncover relationships between variables, ultimately leading to the formulation of hypotheses and the selection of appropriate statistical models.
 
